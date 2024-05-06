@@ -1,0 +1,54 @@
+ID,NAME,LASTNAME,EDAD,SECTOR,GENERO,AÑOS VIVIENDO,HOJA,TALLER,QUE TE MOTIVA ESTAR ACA
+1,LEYDY ,RUIZ,34,CAPELLANIA,F,13,1,CAPELLANIA,"Tranquilidad, naturaleza. Se ha perdido sentido de pertenencia."
+2,LIA ,CEBALLOS,30,CAPELLANIA,F,30,1,CAPELLANIA,
+3,OLGA ,MORENO,56,CAPELLANIA,F,56,1,CAPELLANIA,
+4,ANA F.,ROMERO,72,CAPELLANIA,F,13,1,CAPELLANIA,Poder subir a la cumbre sin que tengamos que cuidarnos de los carros. Andenes sin fecal de perro.
+5,VICTOR,MORATO,75,CAPELLANIA,M,13,1,CAPELLANIA,"Implementar una política medioambiental, que las personas con mascotas no dejen sucias las calles."
+6,ALICIA,RODRIGUEZ,65,CHUNTAME,F,30,1,CAPELLANIA,"Dejar de construir edificios. Total, sentido de pertenencia por tanta gente que ha llegado. Porque sentirlo amarlo y valorarlo."
+7,JUAN ALFONSO,CAMACHO,65,CHUNTAME,M,30,1,CAPELLANIA,Sin sentido de pertenencia no es posible un cambio profundo y duradero.
+8,AMPARO,GORDILLO,68,CAPELLANIA,F,15,1,CAPELLANIA,"Mejorar los arboles y cultivos, la vigilancia. Seguridad."
+9,HERMINIA,GUERRA,78,CAPELLANIA,F,5,1,CAPELLANIA,Paz y seguridad
+10,SARA ,ROJAS,66,CAPELLANIA,F,20,1,CAPELLANIA,"Controlar las construcciones, detener la venta de territorio de cultivo, mejorar la movilidad, control de tenencia de mascotas."
+11,SARA ,SALAMANCA,9,CAPELLANIA,F,7,2,CAPELLANIA,
+12,VALENTINA ,SALAMANCA,14,CAPELLANIA,F,7,2,CAPELLANIA,
+13,SOFIA,BELLO,13,CAPELLANIA,F,7,2,CAPELLANIA,
+14,Jugeinis,De Aguas,13,CAPELLANIA,F,6,2,CAPELLANIA,VOID
+15,AEINER,PALOMO,15,CAPELLANIA,M,4,2,CAPELLANIA,
+16,ANA,ROBLES,13,CAPELLANIA,F,3,2,CAPELLANIA,
+17,PABLO,MEZA,13,CAPELLANIA,F,6,2,CAPELLANIA,
+18,ISABELLA,ROBLES,4,CAPELLANIA,F,3,2,CAPELLANIA,
+19,JHONDO,TRACONIS,6,CAPELLANIA,M,6,2,CAPELLANIA,
+20,ESTHER,CAMARGO,57,CAPELLANIA,F,57,2,CAPELLANIA,"Mas espacio, reflexionar."
+21,JUAN CARLOS,LOVERA,33,TAIRONA,M,33,4,CAPELLANIA,"Dialogo con la comunidad, articulación entre JAC, comunidad, consejo municipal y secretaria para mejorar la calidad de vida."
+22,YOLANDA,SARABRIA,65,CAPELLANIA,F,55,4,CAPELLANIA,"Mejorar la calidad de vida, no seguir construyendo, mejorar la seguridad."
+23,MARIA VIRGINIA,GOMEZ,39,CAPELLANIA,F,12,4,CAPELLANIA,"Valorar el territorio, tener sentido de pertenencia, ser ejemplo para los niños, reciclar más. Limpiar los vallaos, saludo y risa a los vecinos, generar espacios para concientizar las problemáticas, sembrar árboles. Los dueños de mascotas recoger sus desechos."
+24,LUZ ELENA,ALMANZA,58,CAPELLANIA,F,2,4,CAPELLANIA,"Una Capellanía aseada, los parques con más máquinas para ejercicio, más bancas, más organizado"
+25,DAYANA ,RIOS,38,CAPELLANIA,F,8,4,CAPELLANIA,
+26,LUZ MERY,BARRERA,62,,F,,4,CAPELLANIA,"Mas agua, seguridad, unidad."
+27,NELLY,,63,CAPELLANIA,F,25,4,CAPELLANIA,
+28,,,47,,F,30,4,CAPELLANIA,
+29,MARIA,SUR,,,F,30,4,CAPELLANIA,
+30,SOFIA,FLOREZ,12,CHUNTAME,F,1,4,CAPELLANIA,Mejorar las oportunidades de vivienda y más agua
+31,ELOISA,SUAREZ,65,CAPELLANIA,F,65,3,CAPELLANIA,"Capellanía, pedacito de cielo que Dios puso en esta tierra. Tejer futuro."
+32,OLGA ,MORENO,,CAPELLANIA,F,,3,CAPELLANIA,
+33,JULIAN,CRISPIN,42,CAPELLANIA,M,11,3,CAPELLANIA,
+34,CLEMENCIA,LOPEZ,65,CAPELLANIA,F,40,3,CAPELLANIA,
+35,ANA CRISTINA,AREVALO,60,CALAHORRA,F,60,1,EL MISTERIO,Protección de las tierras que hay en el territorio. Denunciar en contra de la tala de árboles y protección de los arboles que quedan. Reciclar y hacer huertas en casa.
+36,ANA SOFIA,DIAZ,9,RIO GRANDE,F,9,1,EL MISTERIO,"No botar basura, no cortar árboles, no coger animales para mascotas, participar en recolección de basura, cuidar animales y medio ambiente."
+37,JULIAN FELIPE,DIAZ,10,RIO GRANDE,M,10,1,EL MISTERIO,"No botar basura, participar en la recolección de basura, cuidar los animales."
+38,LUIS ALEJANDRO,DIAZ,8,RIO GRANDE,M,8,1,EL MISTERIO,Participar en el cuidado de las plantas y animales. No tener perros de mascota.
+39,JACOBO ,QUINTERO,5,RIO GRANDE,M,5,1,EL MISTERIO,Seguir preservando el medioambiente.
+40,NICOLAS,TORRES,7,RIO GRANDE,M,7,1,EL MISTERIO,Cuidar las plantas
+41,SAMUEL ,CRISTANCHO,11,RIO GRANDE,M,11,1,EL MISTERIO,"No tirar basura, cuidar el medio ambiente."
+42,HECTOR ,RAMIREZ,73,EL MISTERIO,M,60,1,EL MISTERIO,"Involucrar las juntas de acción comunal para que concienticen a la comunidad de los temas de conservación del medio ambiente, que reúnan a las veedurías para tales temas. Lo mismo con instituciones educativas como parte de la educación."
+43,JUAN CAMILO,BELLO,29,EL MISTERIO,M,29,1,EL MISTERIO,Promover y aplicar actividades del uso eficiente del agua y separación de residuos. Multiplicar actividades de control en pro del cuidado de nuestro ambiente. Participar en actividades ambientales.
+44,ORLANDO,RICO,70,EL MISTERIO,M,25,1,EL MISTERIO,Dictar charlas sobre los PBOT para que la comunidad sea sujeto de democracia y así pueda participar.
+45,JOHANNA C.,LEON,42,EL MISTERIO,F,42,2,EL MISTERIO,"Colocar en veredas puntos de reciclaje, educar por medio de la junta a la comunidad. Dar aviso cuando se vean actos de suciedad, crear escuelas de como fabricar desde la basura cosas que se puedan utilizar. Detectar las empresas que realizan productos a partir de reciclaje."
+46,MARIA CRISTINA,ROBAYO,63,CANELON,F,6,2,EL MISTERIO,Sustentar el uso de la bolsa plástica. Enseñar a no usar tantos plásticos. Cuidar la naturaleza. Cuidar el agua. Aportar buenas prácticas frente al consumismo.
+47,ANA ISABEL ,GONZALEZ,,CENTRO,F,8,2,EL MISTERIO,"Una verdadera gobernanza colaborativa entre todos los actores sociales como: sociedad civil, academia, empresarios, gremios, alcaldía. Política ambiental, política de habitad, tema actualización pot."
+48,ROMAN,LOPEZ,69,EL MISTERIO,M,40,2,EL MISTERIO,General: Visión ambiental de la administración. Educación de la comunidad. Legislación para empoderamiento social. Personal: Apoyar y conocer de grupos ambientales. Conocer las normativas y el POT. Difundir la conciencia ambiental en la comunidad
+49,LUZ ADRIANA,GUALTEROS,38,RIO GRANDE,F,38,2,EL MISTERIO,Incentivar la preservación de los espacios. Participar en limpieza del sector. Hacer parte de grupos que colaboren en el mantenimiento de los lugares.
+50,ALBA MARINA,CRISTANCHO,40,EL MISTERIO,F,40,2,EL MISTERIO,
+51,JULIAN,CRISPIN,42,CAPELLANIA,M,10,2,EL MISTERIO,
+52,ANDRES,ALARCON,28,GRAN COLOMBIA,M,28,2,EL MISTERIO,
+53,CLEMENCIA,LOPW,65,EL MISTERIO,F,40,2,EL MISTERIO,
